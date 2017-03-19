@@ -1,0 +1,8 @@
+D:\Justas\Develop\repos\hello-world-aspnetcore\bin\Debug\netcoreapp1.1\hello-world-aspnetcore.deps.json
+D:\Justas\Develop\repos\hello-world-aspnetcore\bin\Debug\netcoreapp1.1\hello-world-aspnetcore.runtimeconfig.json
+D:\Justas\Develop\repos\hello-world-aspnetcore\bin\Debug\netcoreapp1.1\hello-world-aspnetcore.runtimeconfig.dev.json
+D:\Justas\Develop\repos\hello-world-aspnetcore\bin\Debug\netcoreapp1.1\hello-world-aspnetcore.dll
+D:\Justas\Develop\repos\hello-world-aspnetcore\bin\Debug\netcoreapp1.1\hello-world-aspnetcore.pdb
+D:\Justas\Develop\repos\hello-world-aspnetcore\obj\Debug\netcoreapp1.1\hello-world-aspnetcore.AssemblyInfo.cs
+D:\Justas\Develop\repos\hello-world-aspnetcore\obj\Debug\netcoreapp1.1\hello-world-aspnetcore.dll
+D:\Justas\Develop\repos\hello-world-aspnetcore\obj\Debug\netcoreapp1.1\hello-world-aspnetcore.pdb
